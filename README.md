@@ -1,6 +1,6 @@
 # Java-OOPS
 
-# 1. Class and Object Demonstration
+# 1. Class and Object Demonstration in Java
   File: `CandObj.java`<br>
   Description: Illustrates the creation of objects and the use of methods in Java.<br>
   Key Concepts:<br>
@@ -14,7 +14,7 @@
   -Constructor Overloading<br>
   -Copy Constructors<br>
 
-# 3. Method Overloading
+# 3. Polymorphism (Method Overloading) in Java
   File: Polymorphism.java<br>
   Description: Showcases polymorphism through method overloading.<br>
   Key Concepts:<br>
@@ -28,14 +28,14 @@
   -Multi-Level Inheritance<br>
   -Hierarchical Inheritance<br>
 
-# 5. Abstract Classes
+# 5. Abstract Classes in Java
   File: Abstract.java<br>
   Description: Explains abstraction and the role of abstract classes.<br>
   Key Concepts:<br>
   -Abstract Classes<br>
   -Implementation of Abstract Methods<br>
 
-# 6. Static Members
+# 6. Static Members in Java
   File: Static.java<br>
   Description: Demonstrates the use of static variables and methods.<br>
   Key Concepts:<br>
